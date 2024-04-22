@@ -1,0 +1,20 @@
+body {
+  font-size: 16px;
+}
+
+#serifOutput {
+  font-family: "Noto Serif JP", serif;
+  font-weight: 700; /* Bold */
+  margin-top: 10px;
+}
+
+#sansSerifOutput {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700; /* Bold */
+  margin-top: 10px;
+}
+
+#doublestruckOutput {
+  font-family: "AMS Doublestruck", sans-serif;
+  margin-top: 10px;
+}
